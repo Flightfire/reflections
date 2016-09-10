@@ -1,0 +1,12 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+The computer automatically scans all the lines of code and picks out the differences.
+It presents it in a rather unusual format, but it's better than manually scanning.
+I get the impression there is probably an easier way to do this that I am about to learn.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+I have already encountered this. Usually you make changes that don't end up working out and 
+you have to hit the undo button until you get back to the previous version that works. The problem is, this deletes any pieces of the work that might actually have been useful when you branched out. 
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
