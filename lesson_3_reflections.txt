@@ -18,3 +18,7 @@ What is the benefit of having a copy of the last known state of the remote store
 
 If you have to go offline (i.e. airplane flight or something) then you have the most uptodate copy to work on while you are offline. 
 Potentially less merge conflicts when you come back online.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Could manually send the files back and forth, but would have to specify every change which might be tedious. The command line stuff would be easier, but it would be much harder to figure what went wrong. 
