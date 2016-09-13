@@ -21,4 +21,9 @@ Potentially less merge conflicts when you come back online.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
-Could manually send the files back and forth, but would have to specify every change which might be tedious. The command line stuff would be easier, but it would be much harder to figure what went wrong. 
+Could manually send the files back and forth, but would have to specify every change which might be tedious. The command line stuff would be easier, but it would be much harder to figure what went wrong.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+It depends on what you're trying to do. If you are basically constructing a new feature that will require lots of new and novel code, then it's probably best to use a branch. If you are just fixing bugs and making small changes, probably best to use master.
+ 
