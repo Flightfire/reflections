@@ -8,3 +8,8 @@ Why might you want to always pull changes manually rather than having Git automa
 
 If people are changing the repository, they could change the code out from underneath you.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A branch is just a different path for the code in a repository
+A clone is a copy of code files and their git repositories to a local computer
+A fork is a copy from one Github account to another.
